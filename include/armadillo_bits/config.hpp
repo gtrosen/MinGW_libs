@@ -98,7 +98,7 @@
   #undef  ARMA_USE_HDF5
   #define ARMA_USE_HDF5
 
-  #define ARMA_HDF5_INCLUDE_DIR C:/Projects/MinGW_libs/include/
+  #define ARMA_HDF5_INCLUDE_DIR D:/Projects/MinGW_libs/include/
 #endif
 
 #if !defined(ARMA_MAT_PREALLOC)
